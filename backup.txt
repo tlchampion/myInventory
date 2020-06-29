@@ -1,0 +1,20 @@
+c,8,Apples,25.3,150.0,3,Other,Basic Need,Fresh,22.5
+e,6,backpack,2.0,500.0,3,Civilian,Cloth/Textile,Medium,Functional Item,375.0
+c,11,Beer,100.7,250.0,4,Other,Luxury Item,Liquid,50.0
+e,4,body armor,15.2,2500.0,5,Military,Manufactured,High,Protective Gear,12500.0
+w,15,Bow/Arrows,5.0,150.0,2,Projectile,No. Accessories are required but are not present,Primitive,30.0
+e,1,gold ring,0.5,200.0,5,Civilian,metal,Medium,Luxury Item,250.0
+c,7,Grain,200.0,345.0,3,Ingredient,Basic Need,Dry Good,51.75
+w,17,Grenade,0.5,250.0,5,Explosive,Yes,Moderate,312.5
+e,2,jacket,4.0,150.0,4,Military,Cloth/Textile,Low,Clothing,60.0
+c,13,Legumes,1000.0,2000.0,5,Ingredient,Basic Need,Dry Good,500.0
+w,18,Mine,500.25,2500.0,5,Explosive,Yes,Advanced,6250.0
+e,3,pants,2.0,50.0,3,Civilian,Cloth/Textile,Medium,Clothing,37.5
+c,10,Peas,500.0,3000.0,4,Other,Basic Need,Frozen,600.0
+c,9,Steak,200.0,1500.0,3,Other,Luxury Item,Fresh,225.0
+w,16,Sword,15.0,450.0,4,Melee,Yes,Primitive,18.0
+c,12,Wine,500.0,5000.0,3,Other,Luxury Item,Liquid,750.0
+e,5,wrist watch,1.2,1500.0,4,Military,manufactured,Medium,Functional Item,3000.0
+c,19,Vodka,2.0,35.0,3,Beverage,Luxury Item,Liquid,5.25
+w,20,Laser Gun,5.875,4500.0,5,Projectile,Yes,Advanced,22500.0
+e,21,Motorcycle,2000.0,45000.0,4,Civilian,Manufactured,Medium,Functional Item,45000.0
